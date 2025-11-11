@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jjingi
+- 👋 Hi, I'm Jin Gi Min, studying CS @ UCSD
 - 👀 I’m interested in CS, tennis, workout!
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning ML/Front-end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
